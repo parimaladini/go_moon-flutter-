@@ -11,7 +11,7 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "Welcome Parimal",
+      title: "GO MOON#",
       theme: ThemeData(scaffoldBackgroundColor: Color.fromRGBO(0, 0, 0, 3)),
       home: HomePage(),
     );
